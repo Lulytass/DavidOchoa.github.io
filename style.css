@@ -27,7 +27,7 @@ html {
 
 /* gradiente para fondos */
 .gradient {
-    background: linear-gradient(90deg, #defafe 0%, #77bdee 100%);
+    background: linear-gradient(90deg, #77bdee 0%, #defafe 100%);
 }
 
 /* Float para el boton de contacto */
