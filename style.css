@@ -10,7 +10,6 @@ html {
     display: inline-block;
     padding: 0.5rem 1rem;
     text-decoration: none;
-    color:#999
     font-weight: bold;
 }
 
@@ -19,6 +18,7 @@ html {
     display: inline-block;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    color:#999
 }
 
 #nav-link:hover {
@@ -31,7 +31,7 @@ html {
     background: linear-gradient(90deg, #77bdee 0%, #defafe 100%);
 }
 /*imagenes*/
-.imgPrincipal, img {
+img {
  border-radius: 30px;
 }
 /* Float para el boton de contacto */
