@@ -10,6 +10,7 @@ html {
     display: inline-block;
     padding: 0.5rem 1rem;
     text-decoration: none;
+    color:#999
     font-weight: bold;
 }
 
@@ -29,8 +30,9 @@ html {
 .gradient {
     background: linear-gradient(90deg, #77bdee 0%, #defafe 100%);
 }
-.imgPrincipal {
- border-radius: 3px;
+/*imagenes*/
+.imgPrincipal, img {
+ border-radius: 30px;
 }
 /* Float para el boton de contacto */
 .float {
