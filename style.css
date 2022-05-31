@@ -29,7 +29,9 @@ html {
 .gradient {
     background: linear-gradient(90deg, #77bdee 0%, #defafe 100%);
 }
-
+.imgPrincipal {
+ border-radius: 3px;
+}
 /* Float para el boton de contacto */
 .float {
     position: fixed;
