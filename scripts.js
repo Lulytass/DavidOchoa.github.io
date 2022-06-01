@@ -6,10 +6,7 @@ var toToggle = document.querySelectorAll(".toggleColour");
 var navlink = document.getElementById("nav-link");
 
 
-window.addEventListener("scroll", function(){
-  var header = document.querySelector("header");
-  header.classList.toggle("abajo", window.scrolly>5);
-})
+
 
 /*Responsive NAV*/
 var navlinkAll = document.querySelectorAll("#nav-link");
