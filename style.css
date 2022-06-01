@@ -3,7 +3,9 @@ html {
     scroll-behavior: smooth;
     transition: ease-in-out 1s;
 }
-
+header .abajo{
+    background: rgb(138, 127, 127);
+}
 /* estilos para el Navbar */
 .nav-link-active {
     /* inline-block py-2 px-4 text-black font-bold no-underline */
@@ -22,7 +24,7 @@ html {
 }
 
 #nav-link:hover {
-    /* hover:text-gray-800 hover:text-underline */
+    /*hover:text-gray-800 hover:text-underline */
     text-decoration: underline;
 }
 
