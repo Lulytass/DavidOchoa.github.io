@@ -5,10 +5,6 @@ var navaction = document.getElementById("navAction");
 var toToggle = document.querySelectorAll(".toggleColour");
 var navlink = document.getElementById("nav-link");
 
-window.addEventListener("scroll", function(){
-  toToggle.classList.toggle("oscuro", window.scrolly>3);
-})
-
 
 /*Responsive NAV*/
 var navlinkAll = document.querySelectorAll("#nav-link");
