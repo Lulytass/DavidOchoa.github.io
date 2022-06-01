@@ -58,12 +58,6 @@ function checkParent(t, elm) {
   return false;
 }
 
-navaction.addEventListener("click", function () {
-  navMenuDiv.classList.add("hidden");
-  for (var i = 0; i < navlinkAll.length; i++) {
-    navlinkAll[i].classList.remove("nav-link-active");
-  }
-});
 // cambia los estilo al dar click al navlink si encuentran una forma mas elegante
 function activeLink(x) {
   for (var i = 0; i < navlinkAll.length; i++) {
