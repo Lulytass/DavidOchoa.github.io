@@ -3,9 +3,7 @@ html {
     scroll-behavior: smooth;
     transition: ease-in-out 1s;
 }
-header p{
-    color: rgb(138, 127, 127);
-}
+
 /* estilos para el Navbar */
 .nav-link-active {
     /* inline-block py-2 px-4 text-black font-bold no-underline */
